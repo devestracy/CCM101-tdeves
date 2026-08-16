@@ -2,7 +2,7 @@
 
 ## Mission Overview
 
-This laboratory activity helped me understand how to use a cloud-based Linux environment through KillerCoda Playground. I learned basic Linux commands and how to check important system information. I also practiced creating, organizing, and managing files and folders using the terminal. The activity helped me become more familiar with GitHub and how it can be used to create a Cloud Computing portfolio. Overall, this experience improved my practical skills and gave me a better understanding of cloud computing and Linux.
+I gained a better understanding of cloud computing and Linux through this laboratory activity. Using the KillerCoda Playground, I was able to experience working in a cloud-based Linux environment and practice using basic Linux commands. I also learned how to check important system information and create, organize, and manage files and folders through the terminal. In addition, I became more familiar with GitHub and how it can be used to build and organize a Cloud Computing portfolio. Overall, the activity gave me hands-on experience and helped improve my practical skills and confidence in using Linux and cloud-based tools.
 
 ## Objectives
 
